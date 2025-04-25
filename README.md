@@ -1,5 +1,5 @@
 # aps-viewer-multiselection
-Sample to control Viewer multi-selection
+Simple extension to control Viewer multi-selection by holding the CTRL button
 
 ## How it works
 
